@@ -124,3 +124,100 @@
       .main-block-pred button:hover {
       background: #26a9e0;
       }
+
+
+@media(max-width: 1283px){
+
+      .main-block-pred {
+            max-width: 440px;
+            min-height: 460px;
+            padding: 10px 0;
+            margin-left: 240px;
+            margin-right: 60px;
+            border-radius: 5px;
+            border: solid 1px #ccc;
+            box-shadow: 1px 2px 5px rgba(0,0,0,.31);
+            background: #ebebeb;
+      }
+
+}
+
+@media (max-width: 1024px){
+
+      .main-block-pred {
+            max-width: 440px;
+            min-height: 460px;
+            padding: 10px 0;
+            margin-left: 40px;
+            margin-right: 60px;
+            border-radius: 5px;
+            border: solid 1px #ccc;
+            box-shadow: 1px 2px 5px rgba(0,0,0,.31);
+            background: #ebebeb;
+      }
+
+}
+
+@media(max-width: 768px){
+
+      .gifimg {
+            margin-right: 80px;
+            display: none;
+      }
+
+      .main-block-pred {
+            max-width: 500px;
+            max-height: 500px;
+            /* padding: 10px 0; */
+            margin-left: 140px;
+            margin-right: 20px;
+            /* border-radius: 5px; */
+            border: solid 1px #ccc;
+            box-shadow: 1px 2px 5px rgba(0,0,0,.31);
+            background: #ebebeb;
+      }
+
+}
+
+@media(max-width: 414px){
+      
+      .main-block-pred {
+            max-width: 1400px;
+            max-height: 500px;
+            /* padding: 10px 0; */
+            margin-left: 20px;
+            margin-right: 20px;
+            /* border-radius: 5px; */
+            border: solid 1px #ccc;
+            box-shadow: 1px 2px 5px rgba(0,0,0,.31);
+            background: #ebebeb;
+      }
+
+      .gifimg {
+            margin-right: 80px;
+            display: none;
+      }
+
+      h4, .h4 {
+            font-size: 14px;
+      }
+
+      .page-section p {
+            margin: 0 0 0px; 
+      }
+
+}
+
+
+@media(max-width: 360px){
+      
+      input, p {
+            padding: 0;
+            margin: 0;
+            outline: none;
+            font-family: Roboto, Arial, sans-serif;
+            font-size: 14px;
+            color: #666;
+      }
+
+}
