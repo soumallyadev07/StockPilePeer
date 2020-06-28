@@ -103,5 +103,11 @@ def predict():
 	predictionpricestr = re.sub(r" ?\([^)]+\)", "", predictionprice)
 	return render_template('index.html', pred='Our prediction for {} on {} is {}'.format(companyname, tomorrow, predictionpricestr))
 
+@app.errorhandler(500)
+def symbol_not_found(e):
+	comname = request.form['companyname']
+	companyname = str(comname)
+	return render_template(), 500
+
 if __name__ == '__main__':
-	app.run()
+	app.run(debug=True)
