@@ -42,7 +42,7 @@ FutureWarning: pandas.util.testing is deprecated. Use the functions in the publi
 
 
 # Please Note: 
- ## Provide Valid Company Symbol as a Wrong Symbol can cause the app to crash, I'm still developing the scripts and the app
+ ## I'm still developing the scripts and the app
 
 ## Cloud Deployment
 
