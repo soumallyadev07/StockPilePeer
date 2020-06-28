@@ -41,7 +41,8 @@ FutureWarning: pandas.util.testing is deprecated. Use the functions in the publi
 5. Open your preferred browser and past the link [http://127.0.0.1:5000/](http://127.0.0.1:5000/)
 
 
-# Please Note: ## Provide Valid Company Symbol as a Wrong Symbol can cause the app to crash, I'm still developing the scripts and the app
+# Please Note: 
+ ## Provide Valid Company Symbol as a Wrong Symbol can cause the app to crash, I'm still developing the scripts and the app
 
 ## Cloud Deployment
 
