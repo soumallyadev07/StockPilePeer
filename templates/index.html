@@ -43,7 +43,6 @@
         <link rel="stylesheet" href="../static/css/templatemo-style.css" />
         <link rel="stylesheet" href="../static/css/lightbox.css" />
         <link rel="stylesheet" href="../static/css/input.css" />
-        <link rel="stylesheet" href="../static/css/UI.css" />
         <link
             href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700"
             rel="stylesheet"
@@ -114,13 +113,15 @@
         <div class="parallax-content baner-content" id="home">
             <div class="container">
                 <div class="text-content">
-                    <h2><em>STOCK</em> <span>PILE PEER</span> PREDICTION</h2>
-                    <p>
+                    <h2 style="font-size: 800%; margin-top: 0%">
+                        <em>STOCK</em> <span>PILE PEER</span> PREDICTION
+                    </h2>
+                    <h4 style="color: white">
                         Stock Pile Peer is a Python Web App which uses Machine
                         Learning Model and a number of Python Libraries to
                         predict the Stock Price of a Company. We use Yahoo
                         Finance API for our information.
-                    </p>
+                    </h4>
                     <br /><br />
                     <h2>{{pred}}</h2>
                     <div class="primary-white-button">
@@ -134,7 +135,7 @@
 
         <section id="about" class="page-section">
             <div class="flexpred">
-                <div class="main-block-pred Prediction-UI">
+                <div class="main-block-pred" style="margin-left: 40%">
                     <h1>Prediction</h1>
                     <form action="/predict" method="POST">
                         <hr />
@@ -170,7 +171,20 @@
                                 seconds so, we request you to kindly wait while
                                 we run our algorithms and ML Models
                             </h4>
-                            <button type="submit" href="/">Predict</button>
+                            <button
+                                type="submit"
+                                href="/"
+                                style="
+                                    -webkit-box-shadow: -6px 12px 18px 16px
+                                        rgba(0, 0, 0, 0.75);
+                                    -moz-box-shadow: -6px 12px 18px 16px
+                                        rgba(0, 0, 0, 0.75);
+                                    box-shadow: -6px 12px 18px 16px
+                                        rgba(0, 0, 0, 0.75);
+                                "
+                            >
+                                Predict
+                            </button>
                         </div>
                     </form>
                 </div>
@@ -194,18 +208,33 @@
                                     data-tabgroup="first-tab-group"
                                 >
                                     <li>
-                                        <a href="#tab1" class="active"
+                                        <a
+                                            href="#tab1"
+                                            class="active"
+                                            style="border-radius: 25px"
                                             >Trading Purpose</a
                                         >
                                     </li>
                                     <li>
-                                        <a href="#tab2"
+                                        <a
+                                            href="#tab2"
+                                            style="border-radius: 25px"
                                             >Buying & Selling Purpose</a
                                         >
                                     </li>
-                                    <li><a href="#tab3">Accuracy</a></li>
                                     <li>
-                                        <a href="#tab4">Monetary Gain/Loss</a>
+                                        <a
+                                            href="#tab3"
+                                            style="border-radius: 25px"
+                                            >Accuracy</a
+                                        >
+                                    </li>
+                                    <li>
+                                        <a
+                                            href="#tab4"
+                                            style="border-radius: 25px"
+                                            >Monetary Gain/Loss</a
+                                        >
                                     </li>
                                 </ul>
                             </div>
