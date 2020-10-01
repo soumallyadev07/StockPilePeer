@@ -1,10 +1,12 @@
 # Stock Pile Peer
 
+Star the repo :star:
+
 Stock Pile Peer is a simple flask application that uses Machine Learning to predict the stock price of a given company
 
 ## Installation & Usage in local Machine
 
-1. Download the repository in your local machine.
+1. Download the repository in your local machine
 2. Check your system for the following libraries:
 ```python
 #Libraries
@@ -52,9 +54,14 @@ Feel free to check out the following link:
     App Url: [https://bit.ly/StockPilePeer](https://bit.ly/StockPilePeer)
 
 ## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+Pull requests are welcome. For new ideas or for major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
+
+## Project Mentor 
+<!-- <p align="center"><img src="https://avatars2.githubusercontent.com/u/55331884?s=400&u=b5d129bb2393f5487c06d5e2b0ac1e7c48e43c25&v=4" width="60%"></p> -->
+->![Saoumallya Dev](https://avatars2.githubusercontent.com/u/55331884?s=400&u=b5d129bb2393f5487c06d5e2b0ac1e7c48e43c25&v=4)<-
+->**Soumallya Dev**<- 
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
