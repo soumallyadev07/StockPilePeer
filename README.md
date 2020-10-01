@@ -6,8 +6,10 @@ Stock Pile Peer is a simple flask application that uses Machine Learning to pred
 
 ## Installation & Usage in local Machine
 
-1. Download the repository in your local machine to do so fork the repository and clone it on your local machine by running the command
-```git clone <url that you copied>```
+1. Download the repository in your local machine to do so fork the repository and clone it on your local machine by running the command:
+```
+git clone <url that you copied>
+```
 
 2. Check your system for the following libraries:
 ```python
