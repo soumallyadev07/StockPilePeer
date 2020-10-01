@@ -59,8 +59,8 @@ Pull requests are welcome. For new ideas or for major changes, please open an is
 Please make sure to update tests as appropriate.
 
 ## Project Mentor 
-<!-- <p align="center"><img src="https://avatars2.githubusercontent.com/u/55331884?s=400&u=b5d129bb2393f5487c06d5e2b0ac1e7c48e43c25&v=4" width="60%"></p> -->
 ![Saoumallya Dev](https://avatars2.githubusercontent.com/u/55331884?s=400&u=b5d129bb2393f5487c06d5e2b0ac1e7c48e43c25&v=4)
+
 **Soumallya Dev** 
 
 ## License
