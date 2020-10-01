@@ -40,7 +40,7 @@ FutureWarning: pandas.util.testing is deprecated. Use the functions in the publi
  * Debug mode: off
  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
 ```
-5. Open your preferred browser and past the link [http://127.0.0.1:5000/](http://127.0.0.1:5000/)
+5. Open your preferred browser and paste the link [http://127.0.0.1:5000/](http://127.0.0.1:5000/)
 
 
 # Please Note: 
@@ -60,8 +60,8 @@ Please make sure to update tests as appropriate.
 
 ## Project Mentor 
 <!-- <p align="center"><img src="https://avatars2.githubusercontent.com/u/55331884?s=400&u=b5d129bb2393f5487c06d5e2b0ac1e7c48e43c25&v=4" width="60%"></p> -->
-->![Saoumallya Dev](https://avatars2.githubusercontent.com/u/55331884?s=400&u=b5d129bb2393f5487c06d5e2b0ac1e7c48e43c25&v=4)<-
-->**Soumallya Dev**<- 
+![Saoumallya Dev](https://avatars2.githubusercontent.com/u/55331884?s=400&u=b5d129bb2393f5487c06d5e2b0ac1e7c48e43c25&v=4)
+**Soumallya Dev** 
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
