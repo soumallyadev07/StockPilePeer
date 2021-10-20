@@ -48,8 +48,6 @@ FutureWarning: pandas.util.testing is deprecated. Use the functions in the publi
 
 I've tried to deploy a lite version of this web app on the google cloud platform for a basic overview and technical know-how.
 
-Feel free to check out the following link:
-    App Url: [https://bit.ly/StockPilePeer](https://bit.ly/StockPilePeer)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
